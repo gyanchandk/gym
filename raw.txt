@@ -1,0 +1,420 @@
+
+	<div class="w3agile-spldishes">
+		<div class="container">
+			<h3 class="title-w3-agile">What client's say</h3>
+			<p class="para-agileits-w3layouts">Aliquam in dolor eu ipsum elementum auctor vitae eget felis. Integer feugiat rutrum accumsan. Donec velit eros, eleifend vitae nisi nec, mattis auctor dui. Aliquam erat volutpat Neque porro quisquam est qui dolorem Lorem ipsum dolor sit amet.</p>
+			<div class="spldishes-agileinfo">
+				<div class="spldishes-grids">
+					<!-- Owl-Carousel -->
+					<div id="owl-demo" class="owl-carousel text-center agileinfo-gallery-row">
+						<div class="item g1">
+							<img class="lazyOwl" src="images/g1.jpg" title="Our latest gallery" alt=""/>
+							<div class="agile-dish-caption">
+								<h4>John Smith</h4>
+								<span>Neque porro quisquam est qui dolorem Lorem ipsum dolor sit amet. </span>
+							</div>
+						</div>
+						<div class="item g1">
+							<img class="lazyOwl" src="images/g2.jpg" title="Our latest gallery" alt=""/>
+							<div class="agile-dish-caption">
+								<h4>Jecy Deoco</h4>
+								<span>Neque porro quisquam est qui dolorem Lorem ipsum dolor sit amet. </span>
+							</div>
+						</div>
+						<div class="item g1">
+							<img class="lazyOwl" src="images/g3.jpg" title="Our latest gallery" alt=""/>
+							<div class="agile-dish-caption">
+								<h4>Devid Fahim</h4>
+								<span>Neque porro quisquam est qui dolorem Lorem ipsum dolor sit amet. </span>
+							</div>
+						</div>
+						<div class="item g1">
+							<img class="lazyOwl" src="images/g4.jpg" title="Our latest gallery" alt=""/>
+							<div class="agile-dish-caption">
+								<h4>Honey Jisa</h4>
+								<span>Neque porro quisquam est qui dolorem Lorem ipsum dolor sit amet. </span>
+							</div>
+						</div>
+						<div class="item g1">
+							<img class="lazyOwl" src="images/g5.jpg" alt=""/>
+							<div class="agile-dish-caption">
+								<h4>Jecy Deoco</h4>
+								<span>Neque porro quisquam est qui dolorem Lorem ipsum dolor sit amet. </span>
+							</div>
+						</div> 
+						<div class="item g1">
+							<img class="lazyOwl" src="images/g6.jpg" title="Our latest gallery" alt=""/>
+							<div class="agile-dish-caption">
+								<h4>Devid Fahim</h4>
+								<span>Neque porro quisquam est qui dolorem Lorem ipsum dolor sit amet. </span>
+							</div>
+						</div>
+					</div> 
+				</div>  
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+	<!-- //dishes --> 
+</div>
+<!--//section4-->
+<!--section5-->
+<div data-target="gallery" class="gallery" id="gallery">
+<!-- gallery -->
+		<div class="container">
+		<h3 class="title-w3-agile">Gallery</h3>
+			<div class="agileits_portfolio_grids">
+				<div class="col-md-3 agileits_portfolio_grid">
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/1.jpg">
+							<img src="images/1.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/2.jpg">
+							<img src="images/2.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/3.jpg">
+							<img src="images/3.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-3 agileits_portfolio_grid">
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/4.jpg">
+							<img src="images/4.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/5.jpg">
+							<img src="images/5.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/6.jpg">
+							<img src="images/6.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-3 agileits_portfolio_grid">
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/7.jpg">
+							<img src="images/7.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/8.jpg">
+							<img src="images/8.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/9.jpg">
+							<img src="images/9.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-3 agileits_portfolio_grid">
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/10.jpg">
+							<img src="images/10.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/11.jpg">
+							<img src="images/11.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/12.jpg">
+							<img src="images/12.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4><span>Gym</span> Workout</h4>
+								<p>Aliquam in dolor.</p> 
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+<!-- //gallery -->
+</div>
+<!--//section5-->
+<!--section6-->
+<div data-target="contact" class="contact" id="contact">
+           <!--membership-->
+<div class="plan">
+	<h3 class="title-w3-agile">Gym classes this summer</h3>
+	<h2>pay now and get <span>35%</span> off</h2>
+	<div class="read-w3ls">
+		<a class="member-btn-agileits page-scroll" href="#myModal2" data-toggle="modal" data-hover="LOGIN">Become a member</a>
+	</div>
+</div>
+<!-- modal -->
+	<div class="modal about-modal w3-agileits fade" id="myModal2" tabindex="-1" role="dialog">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+				</div> 
+				<div class="modal-body login-page "><!-- login-page -->     
+									<div class="login-top sign-top">
+										<div class="agileits-login">
+										<h5>gym membership form</h5>
+										<form action="#" method="post">
+										<div class="wthree-text"> 
+												<h6>Membership person wise</h6>
+												<ul>
+													<li>
+														<label class="anim">
+															<input type="checkbox" class="checkbox">
+															<span> Single membership (20% off)</span> 
+														</label> 
+													</li>
+													<li>
+														<label class="anim">
+															<input type="checkbox" class="checkbox">
+															<span> Couple membership (40% off)</span> 
+														</label> 
+													</li>
+													<li>
+														<label class="anim">
+															<input type="checkbox" class="checkbox">
+															<span> Friends Group (upto 4 : 60% off)</span> 
+														</label> 
+													</li>
+												</ul>
+												<div class="clearfix"> </div>
+											</div> 
+											<h6>Personal Details</h6>
+											<input type="text" name="Name" placeholder="Name" required=""/>
+											<input type="email" name="Email" placeholder="Email" required=""/>
+											<input type="text" name="Age" placeholder="Age" required=""/>
+											<input type="text" name="Phone" placeholder="Phone" required=""/>
+											<input type="text" name="City" placeholder="City" required=""/>
+											<textarea name="your message" placeholder="Any queries /suggesstion" required=""></textarea>
+											<div class="w3ls-submit"> 
+												<input type="submit" value="Send message">  	
+											</div>	
+										</form>
+
+										</div>  
+									</div>
+						</div>  
+				</div> <!-- //login-page -->
+			</div>
+		</div>
+
+-->
+
+
+
+
+
+
+
+
+<!-- commented puposefully
+        <div data-target="classes" class="classes" id="classes">
+           <div class="container">
+		   <h3 class="title-w3-agile">Classes</h3>
+		   <div class="classes_wrapper">
+		 	<div class="row class_box">
+ 			  <div class="col-md-6 classes-grid-w3ls">
+				<div class="class_right black">
+					<h3>BODY BUILDING</h3>
+					<p>Lorem ipsum dolor sit amet.</p>
+					<div class="class_img">
+					  <img src="images/c2.jpg" alt=""/>
+					  <div class="class_desc">
+					  	<h5>Robert Smith</h5>
+					  	<h4>Trainer</h4>
+					  </div>
+					    <div class="clearfix"></div>
+					</div>
+					<div class="timings-agileits-w3layouts">
+						<h6 class="clr-w3ls">Class Time</h6>
+						<p>Mon, Wed, Thu |</p>
+						<span>9:00am to 11:00am</span>
+					</div>
+				</div>
+				<div class="class_left img1">
+				</div>
+				<div class="clearfix"></div>
+			  </div>	
+			   <div class="col-md-6 classes-grid-w3ls">
+				<div class="class_right1 white">
+					<h3>Spinning</h3>
+					<p>Lorem ipsum dolor sit amet.</p>
+					<div class="class_img">
+					  <img src="images/c8.jpg" alt=""/>
+					  <div class="class_desc1">
+					  	<h5>Petter john</h5>
+					  	<h4>Trainer</h4>
+					  </div>
+					   <div class="clearfix"></div>
+					</div>
+					<div class="timings-agileits-w3layouts">
+						<h6>Class Time</h6>
+						<p>Tue, Thu, Sat |</p>
+						<span>4:00pm to 7:00pm</span>
+					</div>
+				  </div>
+				  
+				<div class="class_left img2">
+				</div>
+			    </div>
+			  <div class="clearfix"></div>	
+			 </div>	
+			 <div class="row class_box">
+ 			   <div class="col-md-6 classes-grid-w3ls">
+				<div class="class_right white">
+					<h3>AEROBICS</h3>
+					<p>Lorem ipsum dolor sit amet.</p>
+					<div class="class_img">
+					  <img src="images/c9.jpg" alt=""/>
+					  <div class="class_desc">
+					  	<h5>Zara Keron</h5>
+					  	<h4>Trainer</h4>
+					  </div>
+					    <div class="clearfix"></div>
+					</div>
+					<div class="timings-agileits-w3layouts">
+						<h6>Class Time</h6>
+						<p>Wed, Fri, Sun |</p>
+						<span>6:00am to 9:00am</span>
+					</div>
+				</div>
+				<div class="class_left img3">
+				</div>
+				<div class="clearfix"></div>
+			  </div>	
+			   <div class="col-md-6 classes-grid-w3ls client-last-agileits">
+				<div class="class_right1 black">
+					<h3>CROSSFIT</h3>
+					<p>Lorem ipsum dolor sit amet.</p>
+					<div class="class_img">
+					  <img src="images/c10.jpg" alt=""/>
+					  <div class="class_desc1">
+					  	<h5>Jessy Reo</h5>
+					  	<h4>Trainer</h4>
+					  </div>
+					   <div class="clearfix"></div>
+					</div>
+					<div class="timings-agileits-w3layouts">
+						<h6 class="clr-w3ls">Class Time</h6>
+						<p>Mon, Wed, Thu |</p>
+						<span>9:00am to 11:00am</span>
+					</div>
+				 </div>
+				<div class="class_left img4">
+				</div>
+			    </div>
+			   <div class="clearfix"></div>
+			 </div>	
+			<div class="clearfix-fix"></div> 	   		
+		   </div>
+</div>
+ </div>
+-->
+<!--//section3-->
+<!--section4-->
+
+<!--
+<div data-target="clients" class="clients" id="clients">    -->
+		<!-- dishes -->
+
+
+
+
+	<!-- //modal --> 
+<!--//membership-->
+<!--contact-->
+
+
+
+
+
+<!--//section4-->
+<!--fonts-->
+        <!-- vertical nav -->
+        <div id="fp-nav" class="right" style="margin-top: -43.5px;">
+            <ul>
+                <li><a href="#" class="active" data-anchor="home"><span></span></a>
+                    <div class="fp-tooltip right">Home</div>
+                </li>
+                <li><a href="#"  data-anchor="about"><span></span></a>
+                    <div class="fp-tooltip right">About</div>
+                </li>
+                <li><a href="#"  data-anchor="classes"><span></span></a>
+                    <div class="fp-tooltip right">Classes</div>
+                </li>
+				<li><a href="#"  data-anchor="clients"><span></span></a>
+                    <div class="fp-tooltip right">Clients</div>
+                </li>
+				<li><a href="#"  data-anchor="gallery"><span></span></a>
+                    <div class="fp-tooltip right">Gallery</div>
+                </li>
+                <li><a href="#"  data-anchor="contact"><span></span></a>
+                    <div class="fp-tooltip right">Contact</div>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+
+    <div class="agileits-social">
+					<ul>
+							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="#"><i class="fa fa-rss"></i></a></li>
+							<li><a href="#"><i class="fa fa-vk"></i></a></li>
+						</ul>
+				</div>
